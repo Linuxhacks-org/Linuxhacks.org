@@ -8,7 +8,7 @@ The Linuxhacks's [issue page](https://github.com/Linuxhacks-org/Linuxhacks.org/i
 
 # Donation
 
-<div style="width: 200px"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CJQ25CTYUPLDJ&source=url"><img src="/assets/imgs/donate.png"/></a></div>
+<div style="width: 200px"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CJQ25CTYUPLDJ&source=url"><img src="https://linuxhacks.org/assets/imgs/donate.png"/></a></div>
 
 Thank you for your help to keep Linuxhacks.org rich of contents.
 
@@ -27,10 +27,3 @@ Intika's Stackexchange flair/profile:
 <a href="https://stackexchange.com/users/3950473/intika"><img src="https://stackexchange.com/users/flair/3950473.png" width="208" height="58" alt="profile for intika on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for intika on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 Let's make the internet libre
-
-<div style="text-align: center; margin-left: auto; margin-right: auto">
-	<br>
-	<br>
-	<br>
-	<p>powered by <b><a href="https://jekyllrb.com">Jekyll</a></b> and <b><a href="https://linuxhacks.org/theme" target="_blank">Linuxhacks theme</a></b>.</p>
-</div>
