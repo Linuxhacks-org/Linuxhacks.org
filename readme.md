@@ -20,7 +20,7 @@ The Linuxhacks's RSS Feed provides the last 20 posts, and as indicated on the na
 
 Intika's Stackexchange flair/profile:
  
-<a href="https://stackexchange.com/users/3950473/intika"><img src="https://stackexchange.com/users/flair/3950473.png" width="208" height="58" alt="profile for intika on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for intika on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+<a href="https://stackexchange.com/users/3950473/intika"><img src="https://stackexchange.com/users/flair/3950473.png" width="208" height="58" alt="profile of intika on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile of intika on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 Let's make the internet libre
 
