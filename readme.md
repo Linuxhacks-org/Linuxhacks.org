@@ -26,6 +26,6 @@ Let's make the internet libre
 
 # Donation
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CJQ25CTYUPLDJ&source=url"><img width="150px" src="https://linuxhacks.org/assets/imgs/res/donate.png"/></a>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CJQ25CTYUPLDJ&source=url"><img width="150px" src="https://linuxhacks.org/assets/imgs/res/donate.png" alt="Paypal"/></a>
 
 Thank you for your help to keep Linuxhacks.org rich of contents.
