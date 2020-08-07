@@ -16,6 +16,39 @@ This is an alternative path of communication as commenting on posts's pages is d
 
 The Linuxhacks's RSS Feed provides the last 20 posts, and as indicated on the navigation menu it is available at: `https://linuxhacks.org/feed.xml` 
 
+# Twitter
+
+<div style="height: 35px; width: 240px; display: inline-flex; color: #fff; border-radius: 5px; background: #1b95e0; padding: .4em .8em; text-decoration: none; font-weight: bold; text-align: left;"><a title="Linuxhacks.org on Twitter" target="_blank" rel="noopener noreferrer" href="https://twitter.com/LinuxHacksOrg">
+<svg aria-hidden="false" height="20px" width="20px" style="margin-right: 5px; fill: #fff;">
+<use xlink:href="/assets/imgs/res/icons-full.svg#twitter"></use></svg>
+Follow us @LinuxHacksOrg</a></div>
+
+We are on Twitter <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/LinuxHacksOrg">@LinuxHacksOrg</a>
+
+# Reddit
+
+<div style="height: 35px; width: 250px; display: inline-flex; color: #fff; border-radius: 5px; background: #1b95e0; padding: .4em .8em; text-decoration: none; font-weight: bold; text-align: left;"><a title="Linuxhacks.org on Reddit" target="_blank" rel="noopener noreferrer" href="https://www.reddit.com/user/linuxhacksorg">
+<svg aria-hidden="false" height="20px" width="20px" style="margin-right: 5px; fill: #fff;">
+<use xlink:href="/assets/imgs/res/icons-full.svg#reddit"></use></svg>
+Follow us at u/linuxhacksorg</a></div>
+
+We are on Reddit at <a target="_blank" rel="noopener noreferrer" href="https://www.reddit.com/user/linuxhacksorg">u/linuxhacksorg</a>
+
+# Dev.to
+
+<div style="height: 35px; width: 240px; display: inline-flex; color: #fff; border-radius: 5px; background: #1b95e0; padding: .4em .8em; text-decoration: none; font-weight: bold; text-align: left;"><a title="Linuxhacks.org on Dev.to" target="_blank" rel="noopener noreferrer" href="https://dev.to/linuxhacksorg">
+<svg aria-hidden="false" height="20px" width="20px" style="margin-right: 5px; fill: #fff;">
+<use xlink:href="/assets/imgs/res/icons-full.svg#dev"></use></svg>
+Follow us @linuxhacksorg</a></div>
+
+We are on Dev.to <a target="_blank" rel="noopener noreferrer" href="https://dev.to/linuxhacksorg">@linuxhacksorg</a>
+
+# Gihub
+
+<iframe src="https://ghbtns.com/github-btn.html?user=Linuxhacks-org&repo=Linuxhacks.org&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+
+We are on Github at <a target="_blank" rel="noopener noreferrer" href="https://github.com/Linuxhacks-org/Linuxhacks.org">Linuxhacks-org/Linuxhacks.org</a>
+
 # Stackexchange
 
 Intika's Stackexchange flair/profile:
