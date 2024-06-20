@@ -1,6 +1,6 @@
-# [The Linuxhacks.org Wiki](https://linuxhacks.org) (https://linuxhacks.org)
+# [The Linuxhacks.org Wiki](https://linuxhacks.org) 
 
-Linuxhacks.org by <a href="https://github.com/intika">@intika</a> is meant for publishing various documentation such as articles, news, hacks, patches, wiki, how-tos, tweaks and blogs all about Linux and related technologies. this website aims at exclusive quality articles as well as short simple posts.
+https://linuxhacks.org by <a href="https://github.com/intika">@intika</a> is meant for publishing various documentation such as articles, news, hacks, patches, wiki, how-tos, tweaks and blogs all about Linux and related technologies. this website aims at exclusive quality articles as well as short simple posts.
 
 # Contact
 
